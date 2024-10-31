@@ -1,13 +1,13 @@
 ## Hey, My Skills:
 
--MERN <br>
--Tailwind
--Typescript
--Postgres SQL, Prisma ORM
--AWS, Cloudflare
--Docker
--NextJS, NextAuth
--Monorepos, Turborepo
--CI CD pipelines
--Redis, Pub subs and Queues
--OpenAPI spec
+-MERN<br>
+-Tailwind<br>
+-Typescript<br>
+-Postgres SQL, Prisma ORM<br>
+-AWS, Cloudflare<br>
+-Docker<br>
+-NextJS, NextAuth<br>
+-Monorepos, Turborepo<br>
+-CI CD pipelines<br>
+-Redis, Pub subs and Queues<br>
+-OpenAPI spec<br>
