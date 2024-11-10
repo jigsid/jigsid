@@ -9,5 +9,5 @@
 -NextJS, NextAuth<br>
 -Monorepos, Turborepo<br>
 -CI CD pipelines<br>
--Redis, Pub subs and Queues<br>
+-Redis, Pub subs, Queues and WebSockets<br>
 -OpenAPI spec<br>
