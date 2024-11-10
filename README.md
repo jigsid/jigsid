@@ -1,6 +1,6 @@
 ## Hey, My Skills:
 
--MERN<br>
+-MERN(MongoDB,Express.js,React,Node.js)<br>
 -Tailwind<br>
 -Typescript<br>
 -Postgres SQL, Prisma ORM<br>
