@@ -1,8 +1,8 @@
 ## Hey, My Skills:
 
--MERN (MongoDB,Express.js,React,Node.js)<br>
+-C++, HTML, CSS, javascript, Typescript<br>
+-MERN (MongoDB, Express.js, React, Node.js)<br>
 -Tailwind<br>
--Typescript<br>
 -Postgres SQL, Prisma ORM<br>
 -AWS, Cloudflare<br>
 -Docker<br>
