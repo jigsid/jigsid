@@ -1,6 +1,6 @@
 ## Hey, My Skills:
 
--C, C++, HTML, CSS, javascript, Typescript<br>
+-C, C++, Python, HTML, CSS, javascript, Typescript<br>
 -MERN (MongoDB, Express.js, React, Node.js)<br>
 -Tailwind<br>
 -Postgres SQL, Prisma ORM<br>
