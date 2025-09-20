@@ -14,10 +14,10 @@ CODING: <br>
 -Docker, Kubernetes<br>
 
 GTM: <br>
-N8N<br>
-Smartlead <br>
-Clay<br>
-HUBSPOT <br>
+-N8N<br>
+-Smartlead <br>
+-Clay<br>
+-HUBSPOT <br>
 
 
 PERSONAL SKILLS:<br>
