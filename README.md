@@ -1,5 +1,6 @@
 ## Hey, My Skills:
 
+CODING: <br>
 -C, C++, Python, HTML, CSS, javascript, Typescript<br>
 -MERN (MongoDB, Express.js, React, Node.js)<br>
 -Tailwind<br>
@@ -13,6 +14,19 @@
 -Docker, Kubernetes<br>
 
 INTEREST? AI AND AUTOMATION
+
+GTM
+N8N<br>
+Smartlead <br>
+Clay<br>
+Data anylasis( How to design dashboard to analyse data)
+
+
+PERSONAL SKILLS:
+-SPEED
+-UNIQUE SOLUTIONS
+-QUICKLY FIGURING OUT RANDOM TASK OUTSIDE OF MY KNOWLEDGE. ANY DOMAIN.
+
 
 
 
