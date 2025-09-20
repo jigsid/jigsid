@@ -15,16 +15,15 @@ CODING: <br>
 
 INTEREST? AI AND AUTOMATION
 
-GTM
+GTM<br>
 N8N<br>
 Smartlead <br>
 Clay<br>
-Data anylasis( How to design dashboard to analyse data)
 
 
-PERSONAL SKILLS:
--SPEED
--UNIQUE SOLUTIONS
+PERSONAL SKILLS:<br>
+-SPEED<br>
+-UNIQUE SOLUTIONS<br>
 -QUICKLY FIGURING OUT RANDOM TASK OUTSIDE OF MY KNOWLEDGE. ANY DOMAIN.
 
 
