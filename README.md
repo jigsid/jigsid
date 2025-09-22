@@ -17,7 +17,7 @@ GTM: <br>
 -N8N<br>
 -Smartlead <br>
 -Clay<br>
--HUBSPOT <br>
+-Hubspot <br>
 
 
 PERSONAL SKILLS:<br>
