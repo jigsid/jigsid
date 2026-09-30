@@ -74,6 +74,10 @@ I combine software engineering, data, AI, and GTM to build systems that turn sig
 * **Resourcefulness:** Quickly become effective in unfamiliar tools, APIs and domains.
 * **Outcome-driven:** Optimize for pipeline and revenue, not activity volume.
 
+## Interests
+
+**AI · GTM Engineering · Agentic Systems · Revenue Automation · Data · Outbound · Developer Tools**
+
 <details>
 <summary><strong>Agent &amp; GTM Stack — Tools I Build With</strong> (click to expand)</summary>
 
@@ -224,7 +228,3 @@ I combine software engineering, data, AI, and GTM to build systems that turn sig
 - Openrouter
 
 </details>
-
-## Interests
-
-**AI · GTM Engineering · Agentic Systems · Revenue Automation · Data · Outbound · Developer Tools**
