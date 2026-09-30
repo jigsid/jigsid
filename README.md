@@ -81,6 +81,7 @@ I combine software engineering, data, AI, and GTM to build systems that turn sig
 <details>
 <summary><strong>Agent &amp; GTM Stack — Tools I Build With</strong> (click to expand)</summary>
 
+
 ## Traditional GTM SaaS - Real Agent Interfaces / Headless
 
 - Salesforce
