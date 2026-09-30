@@ -74,6 +74,157 @@ I combine software engineering, data, AI, and GTM to build systems that turn sig
 * **Resourcefulness:** Quickly become effective in unfamiliar tools, APIs and domains.
 * **Outcome-driven:** Optimize for pipeline and revenue, not activity volume.
 
+<details>
+<summary><strong>Agent &amp; GTM Stack — Tools I Build With</strong> (click to expand)</summary>
+
+## Traditional GTM SaaS - Real Agent Interfaces / Headless
+
+- Salesforce
+- HubSpot
+- Attio
+- Apollo
+- Clay
+- Smartlead
+- Instantly
+- HeyReach
+- Expandi
+- Trigify
+- Lemlist
+- Common Room
+- Gong
+- 6sense
+- Warmly
+- Customer.io
+- Braze
+- Calendly
+- AirOps
+- Profound
+- Ahrefs
+- Semrush
+- Beehiiv
+
+### Data, Enrichment & Signals
+
+- Clay
+- Linkedin Sales Navigator
+- LeadMagic
+- Explorium
+- People Data Labs
+- BlitzAPI
+- Coresignal
+- Crustdata
+- FullEnrich
+- Findymail
+- BetterContact
+- Ocean.io
+- PredictLeads
+- Wappalyzer
+- Prospeo
+- Crunchbase
+- Trigify
+- PhantomBuster
+
+### Web Search & Scraping
+
+- SerpApi
+- Parallel
+- Tavily
+- Exa.ai
+- Apify
+- You.com
+- Brave Search API
+- Firecrawl
+- Octoparse
+- Scrape.do
+- Bright Data
+- DataForSEO
+
+### Computer Use
+
+- Browserbase
+- Browser Use
+- Hyperbrowser
+- Browserless
+- Computer Use
+- OpenAI Operator
+- Kernel
+
+### Communication Infra
+
+- Twilio
+- Vapi
+- ElevenLabs
+- Resend
+- Mailgun
+- Twilio SendGrid
+- Bland
+- Courier
+- Loops
+
+### Coding Agents
+
+- Claude Code
+- Codex
+- Cursor
+- GitHub Copilot
+- Replit
+- Gemini CLI
+
+### Agent Builders
+
+- LangChain
+- Lindy
+- Dust
+- Relevance AI
+
+### Data Storage & Memory
+
+- Supabase
+- Databricks
+- Redis
+- Pinecone
+- Snowflake
+- Neo4j
+- ClickHouse
+- Hightouch
+
+### Orchestration
+
+- n8n
+- Zapier
+- Clay
+- Airtable
+- Make
+- CrewAI
+- Workato
+- Temporal
+- Gumloop
+
+### Deployment
+
+- Vercel
+- Cloudflare Workers
+- Railway
+- Render
+- AWS
+- E2B
+- Netlify
+
+### Agent Tooling
+
+- Composio
+- Arcade.dev
+- Gradient Works
+- Smithery
+- Glama
+- ACI.dev
+- Klavis
+- Toolhouse
+- mcp.so
+- Openrouter
+
+</details>
+
 ## Interests
 
 **AI · GTM Engineering · Agentic Systems · Revenue Automation · Data · Outbound · Developer Tools**
