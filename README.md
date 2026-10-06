@@ -4,66 +4,52 @@
 
 I combine software engineering, data, AI, and GTM to build systems that turn signals into pipeline.
 
-## GTM Engineering
+## Content
 
-* Signal-based GTM
-* Account-Based GTM (ABGTM) / ABX
-* ICP, TAM & account segmentation
-* Intent & buying-signal detection
-* Account & lead scoring
-* Trigger-based prospecting
-* Multi-channel outbound orchestration
-* AI-powered personalization
-* GTM experimentation & optimization
-* Revenue attribution & pipeline analytics
-
-## AI & Automation
-
-* AI agents & agentic workflows
-* AI-powered prospect research
-* Automated enrichment & qualification
-* LLM workflows & structured outputs
-* Context engineering
-* Tool-using agents & MCP
-* AI-driven workflow orchestration
-* Human-in-the-loop systems
-* LLM evaluation & reliability
-* AI-assisted development
-
-## Data & Infrastructure
-
-* GTM data pipelines & ETL
-* Data enrichment & identity resolution
-* Web scraping & public-web intelligence
-* Firmographic, technographic & behavioral data
-* Event-driven systems & webhooks
-* API orchestration
-* CRM architecture & automation
-* Data quality, normalization & deduplication
-* Warehouse-native GTM
-* GTM as code
+* Founder-led content systems
+* SEO & programmatic SEO content
+* Content repurposing pipelines
+* LinkedIn, X & YouTube distribution
+* AI content research, drafting & editing workflows
+* Content-led GTM & inbound
+* Social listening & trend signals
+* Newsletter & community content
+* Content analytics & attribution
 
 ## Outbound
 
-* Cold email infrastructure
-* LinkedIn outbound
-* Account-based outbound
+* Cold email infrastructure & deliverability
+* LinkedIn outbound & social selling
+* Signal-based & trigger-based prospecting
+* Account-Based GTM (ABGTM) / ABX
+* ICP, TAM & account segmentation
+* Intent & buying-signal detection
 * Buying-committee mapping
-* Personalization at scale
-* Deliverability & email infrastructure
+* AI-powered personalization at scale
+* Multi-channel orchestration (email · LinkedIn · calls)
+* Automated enrichment & qualification
 * Messaging & offer experimentation
-* Content-led GTM
+* SDR enablement & sequence design
 
-## Software Engineering
+## Paid Ads
 
-* Python, JavaScript / TypeScript, SQL
-* React, Next.js, Node.js
-* PostgreSQL, MongoDB, Redis
-* REST APIs & OpenAPI
-* Queues, Pub/Sub & WebSockets
-* Docker & CI/CD
-* AWS & Cloudflare
-* Git / GitHub
+* Meta, Google & LinkedIn Ads
+* Landing pages & conversion tracking
+* Creative, copy & offer testing
+* Audience segmentation & retargeting
+* Lead routing & CRM sync
+* Attribution & ROAS analytics
+* Pixel, UTM & event instrumentation
+* Ad-to-CRM pipeline reporting
+
+## Referral / Affiliates
+
+* Affiliate & partner programs
+* Referral loops & incentive design
+* Partner tracking & payout automation
+* Co-marketing & community partnerships
+* Affiliate attribution & revenue-share reporting
+* CRM-side partner pipeline tracking
 
 ## How I Work
 
